@@ -1,1 +1,1 @@
-Useful scripts coded in OpenEsge Progress
+Useful scripts coded in OpenEdge Progress 4GL
